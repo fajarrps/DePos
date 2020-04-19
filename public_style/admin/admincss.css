@@ -1,0 +1,23 @@
+.prima
+.font14 a{
+	font-size: 14px;
+	text-decoration: none;
+	color: black;
+}
+
+.font13{
+	font-size: 13px;
+	text-decoration: none;
+	color: black;
+}
+
+.font12table{
+	font-size: 12px;
+}
+
+.btn-group-xs > .btn, .btn-xs {
+  padding: .25rem .4rem;
+  font-size: .875rem;
+  line-height: .5;
+  border-radius: .2rem;
+}

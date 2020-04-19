@@ -1,0 +1,42 @@
+/* Stackoverflow preview fix, please ignore */
+.navbar-nav {
+flex-direction: row;
+}
+
+.nav-link {
+padding-right: .5rem !important;
+padding-left: .5rem !important;
+}
+
+/* Fixes dropdown menus placed on the right side */
+.ml-auto .dropdown-menu {
+left: auto !important;
+right: 0px;
+}
+
+hr.style1{
+	border-top: 1px solid blue;margin: 0px 0 5px 0;
+}
+
+.full-width-image {
+  width: 100vw;
+  position: relative;
+  left: 50%;  
+  margin-left: -50vw;
+}
+
+.full-width-image img {
+  width: 100%;
+}
+
+.font14 a{
+	font-size: 14px;
+	text-decoration: none;
+	color: black;
+}
+
+.font13{
+	font-size: 13px;
+	text-decoration: none;
+	color: black;
+}
